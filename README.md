@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Daniel  
 
 ### 🧠 About Me  
-4th-year Data Science student, ML & systems builder.  
-Working on quantitative research, backtesting engines, and a full **13F network analysis capstone**.  
-Currently self-learning **Reinforcement Learning**.  
-Always learning, always building.
-
+- 🎓 **b.sc Data Science & Engineer graduate**
+- 💻 **Backend Developer at Akamai**
+- 📈 Interested in **Machine Learning, quantitative research, and algorithmic trading**
+- 🧠 Built **backtesting engines** and a full **13F network analysis capstone**
+- 🤖 Currently learning **Reinforcement Learning**
+- 🚀 Always learning, always building
 ---
 
 ### 🌍 Socials  
